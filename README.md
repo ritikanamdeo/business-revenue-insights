@@ -1,4 +1,4 @@
-# Daxwell Data Analyst Demo (Sales Insights)
+# Data Analyst (Sales Insights)
 
 A compact project that showcases how I explore a messy sales file, engineer metrics, and surface business-ready insights for Daxwell. The dataset is synthetic but modeled after a mid-market distributor with multiple channels and regions.
 
