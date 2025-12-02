@@ -1,4 +1,4 @@
-# Daxwell Sales Analysis Snapshot
+# Sales Analysis Snapshot
 
 Key metrics:
 - Total revenue: $223,920
